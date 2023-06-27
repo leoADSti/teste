@@ -46,7 +46,7 @@ transition: background .6s;
     cursor: pointer;
     position: absolute;
     left: 43%;
-    top: 40%;
+    top: 35%;
   }
   .slider {
     width: 50%;
