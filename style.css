@@ -46,7 +46,7 @@ transition: background .6s;
     cursor: pointer;
     position: absolute;
     left: 43%;
-    top: 30%;
+    top: 10%;
   }
   .slider {
     width: 50%;
@@ -211,7 +211,7 @@ transition: background .6s;
   }
   .mapa{
     position: absolute;
-    top: 300%; left: 5%;
+    top: 100%; left: 5%;
   }
   .loca{
     color: #D2691E;
